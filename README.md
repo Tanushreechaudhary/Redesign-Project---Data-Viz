@@ -26,12 +26,38 @@ The first Target Audience for my visualization is government because internet ac
 ### Data Analysis:
 I exported the visualization to be redesigned in Tableau and tried to analyze the data by changing the visuals. This gave me an understanding about what all arguments I can make with this data. What part of the world showed major growth in internet usage in all these years. So, I developed the following two visualizations.
 
-First visualization shows the increasing average number of internet users per 100 people. 
+First visualization shows the Average number of increasing internet users per 100 people per year. 
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage1.png)
 
+Link to Tableau Public: 
+
+This Visualization shows how Internet usage is different for Developed and Developing nations. Norway, being a developed country started with a mark of 52% Internet Users in 2000 and reached until 92.61% in 2015, which clearly gives an idea that Developed nations are way too ahead in technology. According to National Human Development Report(NHDR), Afghanistan is the fifth least developed country and the Statistics presented in the Visualization clearly supports that. In 2000, there were zero Internet Users and even after 15 years, they have just reached to 8.26%. 
+
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage2.png)
+
+Link to Tableau Public: 
+
+
+### Data Wrangling:
+The raw data I downloaded from Knoema.com, did not require much cleaning. I had to drop some of the columns that were not providing any information as they would obstruct the actual point of the visualization. I dropped some rows also, that were blank. Renamed columns for consistency. I applied the learnings gained by wrangling data in the lab sessions.
+
+Here is the link to my Jupyter notebook: 
+
+### Intermediate Visualization Prototypes:
+#### Intermediate1:
+
+![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage4.png)
+
+
+
+
+
+
+
+
+
 
 
 

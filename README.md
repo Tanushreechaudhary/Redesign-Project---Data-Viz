@@ -32,7 +32,7 @@ First visualization shows the Average number of increasing internet users per 10
 
 Link to Tableau Public: 
 
-This Visualization shows how Internet usage is different for Developed and Developing nations. Norway, being a developed country started with a mark of 52% Internet Users in 2000 and reached until 92.61% in 2015, which clearly gives an idea that Developed nations are way too ahead in technology. According to National Human Development Report(NHDR), Afghanistan is the fifth least developed country and the Statistics presented in the Visualization clearly supports that. In 2000, there were zero Internet Users and even after 15 years, they have just reached to 8.26%. 
+Second Visualization shows how Internet usage is different for Developed and Developing nations. Norway, being a developed country started with a mark of 52% Internet Users in 2000 and reached until 92.61% in 2015, which clearly gives an idea that Developed nations are way too ahead in technology. According to National Human Development Report(NHDR), Afghanistan is the fifth least developed country and the Statistics presented in the Visualization clearly supports that. In 2000, there were zero Internet Users and even after 15 years, they have just reached to 8.26%. 
 
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage2.png)
@@ -40,15 +40,23 @@ This Visualization shows how Internet usage is different for Developed and Devel
 Link to Tableau Public: 
 
 
-### Data Wrangling:
+### 1. Data Wrangling:
 The raw data I downloaded from Knoema.com, did not require much cleaning. I had to drop some of the columns that were not providing any information as they would obstruct the actual point of the visualization. I dropped some rows also, that were blank. Renamed columns for consistency. I applied the learnings gained by wrangling data in the lab sessions.
 
 Here is the link to my Jupyter notebook: 
 
-### Intermediate Visualization Prototypes:
-#### Intermediate1:
+### 2. Intermediate Visualization Prototypes:
+#### Intermediate 1:
+In all developed countries today, technology is an integral part of education at all levels. As we can see, United Kingdom has shown tremendous growth in a span of 15 years, from 26.82% to 92%. Economic factors play a very important role, so countries like United Kingdom, Canada, United States, Norway did not have to focus on issues like food and Shelter for common people. It focussed more towards the advancement in technology.
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage4.png)
+
+Link to Tableau Public: 
+
+#### Intermediate 2:
+The Internet is the decisive technology of the Information Age. The dawn of Internet has widen the gap between developed and developing nations. But if we look at the statistics for Internet Usage in Undeveloped nations like Iraq, Nigeria, Somalia and many more, they were almost at zero in 2000 and in 2015, they have shown a little bit of growth. Since, these nations don't have a strong economy and less access to technology, they are lacking behind. So, we can say that economy divide certainly influence the access divide, content divide about the technology.
+
+![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage3.png)
 
 
 

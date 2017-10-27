@@ -9,7 +9,6 @@ Following is the visualization that is to be redesigned.
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage.png)
 
-
 https://public.tableau.com/en-us/s/gallery/internet-coverage-across-globe?gallery=votd
 
 The Author of this Visualization has created bar charts for each country which shows how for a country, Internet usage changed in the span of 15 years. He has given the filter option to highlight a country and check the statistics. However, the viz sums up the data for all the countries at one place but displaying it using this approach is a bit overwhelming. 
@@ -28,17 +27,12 @@ I exported the visualization to be redesigned in Tableau and tried to analyze th
 
 First visualization shows the Average number of increasing internet users per 100 people per year. 
 
-![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage1.png)
-
-Link to Tableau Public: 
+![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage1.png) 
 
 Second Visualization shows how Internet usage is different for Developed and Developing nations. Norway, being a developed country started with a mark of 52% Internet Users in 2000 and reached until 92.61% in 2015, which clearly gives an idea that Developed nations are way too ahead in technology. According to National Human Development Report(NHDR), Afghanistan is the fifth least developed country and the Statistics presented in the Visualization clearly supports that. In 2000, there were zero Internet Users and even after 15 years, they have just reached to 8.26%. 
 
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage2.png)
-
-Link to Tableau Public: 
-
 
 ### 1. Data Wrangling:
 The raw data I downloaded from Knoema.com, did not require much cleaning. I had to drop some of the columns that were not providing any information as they would obstruct the actual point of the visualization. I dropped some rows also, that were blank. Renamed columns for consistency. I applied the learnings gained by wrangling data in the lab sessions.
@@ -47,19 +41,48 @@ Here is the link to my Jupyter notebook:
 
 ### 2. Intermediate Visualization Prototypes:
 #### Intermediate 1:
-In all developed countries today, technology is an integral part of education at all levels. As we can see, United Kingdom has shown tremendous growth in a span of 15 years, from 26.82% to 92%. Economic factors play a very important role, so countries like United Kingdom, Canada, United States, Norway did not have to focus on issues like food and Shelter for common people. It focussed more towards the advancement in technology.
+In the first version, I tried to show the gap between the developed and developing nations, taking into view some major countries. The dawn of Internet has widen the gap between developed and developing nations. As we can see, United Kingdom has shown tremendous growth in a span of 15 years, from 26.82% to 92% and so does other developed countries. But this leaves out the details about the journey of undeveloped nations. So, In the next version, I am going to show the stats about Undeveloped countries.
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage4.png)
 
-Link to Tableau Public: 
+
+Disadvantages of Viz: I have used circles to display each country against Internet usage, but this doesnot give a clear idea as the sizes for the circles are almost same. So, here I have put the percentage of users as the label.
 
 #### Intermediate 2:
-The Internet is the decisive technology of the Information Age. The dawn of Internet has widen the gap between developed and developing nations. But if we look at the statistics for Internet Usage in Undeveloped nations like Iraq, Nigeria, Somalia and many more, they were almost at zero in 2000 and in 2015, they have shown a little bit of growth. Since, these nations don't have a strong economy and less access to technology, they are lacking behind. So, we can say that economy divide certainly influence the access divide, content divide about the technology.
+In the second version, we look at the statistics for Internet Usage in Undeveloped nations like Iraq, Nigeria, Somalia and many more, they were almost at zero in 2000 and in 2015, they have shown a little bit of growth. Since, these nations don't have a strong economy and less access to technology, they are lacking behind. So, we can say that economy divide certainly influence the access and content divide in the field of technology.
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage3.png)
 
+Disadvantages of Viz: This version gives clear understanding of the undeveloped countries but here we are analyzing data about how the internet usage has changed around the world. So, instead of bar graphs and circles, in the next iteration, I would make use of the latitudes and longitudes feature of tableau to show it on a map country-wise.
 
+#### Intermediate 3:
+In this version, I have put the data in the form of latitudes and longitudes on a map. This visualization allows us to evaluate which countries have Highest number of Internet users and which have the lowest.
 
+![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage5.png)
+
+Advantages: Since, it is giving a map view, we can easily see the details country wise.
+
+Disadvantages: It is not showing how Internet usage changed over the years, which is the actual claim.So, there should be a differentiating factor about the years. Like how was it in 2000 and how it has changed in 2015. So, my final version will be taking this point into consideration.
+
+---
+
+## Final Visualization:
+
+![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage_Final.png)
+
+Link to Tableau Public:
+
+In the final Version, As per the year the color green keeps increasing in different parts of the world. It is showing ehich countries have improved and which are still lagging behind. A country highlight option is also given to see stats for a particular country in that year. The increasing growth of the Internet makes it appear that the world is witnessing the arrival of a completely new technology. Though some parts of the world still do not have access to internet or very little access, but on the whole, over the years this percentage has certainly increased. 
+There are more than five times as many Internet users now as there were in 2000. The internet has not just become larger, it has also become more spread out, more global. As we saw some countries, which did not have access to internet in 2000, have advanced a lot.
+
+So, the government can learn about the current stats in their countries and know the reason why they are lagging behind and how can they educate their citizens about the advent of this technology. Internet providers can know in what countries should they introduce their services and can lower down the rates for poor countries.
+
+---
+## RoadMap to future enhancements:
+1. Can explore data on the Effects of the Internet on Education and Healthcare, how these two services have been influenced by the internet.
+2. Can compare GDP reports of Developed and Undeveloped nations to see how is Internet's contribution related to GDP growth.
+3. Can know about the content people mostly access via internet and the source of accessing it, like via laptops, smartphones etc.
+4. Can explore data about how increase in mobile phone users is related to Internet usage.
 
 
 

@@ -16,6 +16,7 @@ https://public.tableau.com/en-us/s/gallery/internet-coverage-across-globe?galler
 #### Critique for the Visualization:
 The Author of this Visualization has created bar charts for each country which shows how for a country, Internet usage changed in the span of 15 years. He has given the filter option to highlight a country and check the statistics. However, the viz sums up the data for all the countries at one place but displaying it using this approach, is a bit overwhelming. Having to flick through the countries to see how usage is changing prevents us from seeing the change over time.
 Though bar charts are never a bad option but here the main focus should have been on giving the audiences a clear idea that pops out of the visual at very moment of looking at it. 
+
 So, to redesign it in a better way, I would want to create something easy to understand. So, I would take the raw data from the source mentioned and analyze the data to see what is the clear usage trend it is showing. What claims I can make with the data? Is there a need to add more data to show the visual I perceived. As I analyzed the data, I came up with the claim "We are Social!". It means that after 15 years of invention of Internet, finally major part of the world has access to internet.
 
 #### Audience:

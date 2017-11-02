@@ -71,7 +71,7 @@ Disadvantages: It is not showing how Internet usage changed over the years, whic
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/FinalImage.png)
 
-Link to Tableau Public: https://public.tableau.com/profile/tanushree3514#!/vizhome/WeareSocial/WeareSocial?publish=yes
+Link to Tableau Public: https://public.tableau.com/profile/tanushree3514#!/vizhome/WeareSocial_0/WeareSocial
 
 In the final Version, As per the year the color green keeps increasing in different parts of the world. It is showing which countries have improved and which are still lagging behind. A country highlight option is also given to see stats for a particular country in that year. The increasing growth of the Internet makes it appear that the world is witnessing the arrival of a completely new technology. Though some parts of the world still do not have access to internet or very little access, but on the whole, over the years this percentage has certainly increased. 
 There are more than five times as many Internet users now as there were in 2000. The internet has not just become larger, it has also become more spread out, more global. As we saw some countries, which did not have access to internet in 2000, have advanced a lot.

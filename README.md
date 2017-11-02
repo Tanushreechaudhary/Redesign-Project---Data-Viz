@@ -69,7 +69,7 @@ Disadvantages: It is not showing how Internet usage changed over the years, whic
 
 ## Final Visualization:
 
-![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage_Final.png)
+![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/FinalImage.png)
 
 Link to Tableau Public: https://public.tableau.com/profile/tanushree3514#!/vizhome/WeareSocial/WeareSocial?publish=yes
 

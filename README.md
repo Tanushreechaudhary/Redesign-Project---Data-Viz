@@ -74,6 +74,10 @@ Disadvantages: It is not showing how Internet usage changed over the years, whic
 
 Link to Tableau Public: https://public.tableau.com/profile/tanushree3514#!/vizhome/WeareSocial_0/WeareSocial
 
+#### Comparison between the actual Viz and the Redesigned Viz.
+
+![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Comparison.png)
+
 In the final Version, As per the year the color green keeps spreading in different parts of the world and as we see for 2015, Green is the major color. It is showing which countries have improved and which are still lagging behind(the white ones). The increasing growth of the Internet makes it appear that the developing world accepted the arrival of the new technology in just 15 years while the developed countries took around 50 years to invent the technology. Though some parts of the world still do not have access to internet or very little access, but on the whole, over the years this percentage has certainly increased. 
 There are more than five times as many Internet users now as there were in 2000. The internet has not just become larger, it has also become more spread out, more global and more Social!
 

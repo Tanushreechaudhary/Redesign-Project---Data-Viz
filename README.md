@@ -39,7 +39,8 @@ Second Visualization shows how Internet usage is different for Developed and Dev
 ### 2. Data Wrangling:
 The raw data I downloaded from Knoema.com, did not require much cleaning. I had to drop some of the columns that were not providing any information as they would obstruct the actual point of the visualization. I dropped some rows also, that were blank. Renamed columns for consistency. I applied the learnings gained by wrangling data in the lab sessions.
 
-Here is the link to my Jupyter notebook: https://github.com/Tanushreechaudhary/Redesign-Project---Data-Viz/blob/master/Redesign_Project_JupyterNotebook.ipynb
+Here is the link to my Jupyter notebook: 
+https://github.com/Tanushreechaudhary/Redesign-Project---Data-Viz/blob/master/Redesign_Project_JupyterNotebook.ipynb
 
 ### 3. Intermediate Visualization Prototypes:
 #### Intermediate 1:

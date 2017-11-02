@@ -24,7 +24,7 @@ The first Target Audience for my visualization is government because internet ac
 ---
 
 ## "Making of" the Project:
-### Data Analysis:
+### 1. Data Analysis:
 I exported the visualization to be redesigned in Tableau and tried to analyze the data by changing the visuals. This gave me an understanding about what all arguments I can make with this data. What part of the world showed major growth in internet usage in all these years and what are the reasons for it. So, I developed the following two visualizations.
 
 What could be a better way than a line graph to show increasing numbers? So, First visualization shows the Average number of increasing internet users per 100 people per year. 
@@ -36,12 +36,12 @@ Second Visualization shows how Internet usage is different for Developed and Dev
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage2.png)
 
-### 1. Data Wrangling:
+### 2. Data Wrangling:
 The raw data I downloaded from Knoema.com, did not require much cleaning. I had to drop some of the columns that were not providing any information as they would obstruct the actual point of the visualization. I dropped some rows also, that were blank. Renamed columns for consistency. I applied the learnings gained by wrangling data in the lab sessions.
 
 Here is the link to my Jupyter notebook: https://github.com/Tanushreechaudhary/Redesign-Project---Data-Viz/blob/master/Redesign_Project_JupyterNotebook.ipynb
 
-### 2. Intermediate Visualization Prototypes:
+### 3. Intermediate Visualization Prototypes:
 #### Intermediate 1:
 In the first version, I tried to show the gap between the developed and developing nations, taking into view some major countries. The dawn of Internet has widen the gap between developed and developing nations. As we can see, United Kingdom has shown tremendous growth in a span of 15 years, from 26.82% to 92% and so does other developed countries. But this leaves out the details about the journey of undeveloped nations. So, In the next version, I am going to show the stats about Undeveloped countries.
 

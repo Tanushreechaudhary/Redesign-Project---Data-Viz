@@ -71,7 +71,7 @@ Disadvantages: It is not showing how Internet usage changed over the years, whic
 
 ## Final Visualization:
 
-![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/FinalImage.png)
+![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/FinalImage2.png)
 
 Link to Tableau Public: https://public.tableau.com/profile/tanushree3514#!/vizhome/WeareSocial_0/WeareSocial
 
@@ -79,7 +79,7 @@ Link to Tableau Public: https://public.tableau.com/profile/tanushree3514#!/vizho
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Comparison.png)
 
-In the final Version, As per the year the color green keeps spreading in different parts of the world and as we see for 2015, Green is the major color. It is showing which countries have improved and which are still lagging behind(the white ones). The increasing growth of the Internet makes it appear that the developing world accepted the arrival of the new technology in just 15 years while the developed countries took around 50 years to invent the technology. Though some parts of the world still do not have access to internet or very little access, but on the whole, over the years this percentage has certainly increased. 
+In the final Version, As per the year the color green keeps spreading in different parts of the world and as we see for 2015, Green is the major color. It is showing which countries have improved and which are still lagging behind(the white ones). I have given a country highlight option as well to check for a particular country. The increasing growth of the Internet makes it appear that the developing world accepted the arrival of the new technology in just 15 years while the developed countries took around 50 years to invent the technology. Though some parts of the world still do not have access to internet or very little access, but on the whole, over the years this percentage has certainly increased. 
 There are more than five times as many Internet users now as there were in 2000. The internet has not just become larger, it has also become more spread out, more global and more Social!
 
 So, from this, government can learn about the current stats in their countries and know the reason why they are lagging behind and how can they educate their citizens about it. Also, Internet providers can know in what countries should they introduce their services and can lower down the rates for poor countries.

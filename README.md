@@ -74,19 +74,19 @@ Disadvantages: It is not showing how Internet usage changed over the years, whic
 
 Link to Tableau Public: https://public.tableau.com/profile/tanushree3514#!/vizhome/WeareSocial_0/WeareSocial
 
-In the final Version, As per the year the color green keeps increasing in different parts of the world. It is showing which countries have improved and which are still lagging behind. A country highlight option is also given to see stats for a particular country in that year. The increasing growth of the Internet makes it appear that the world is witnessing the arrival of a completely new technology. Though some parts of the world still do not have access to internet or very little access, but on the whole, over the years this percentage has certainly increased. 
-There are more than five times as many Internet users now as there were in 2000. The internet has not just become larger, it has also become more spread out, more global. As we saw some countries, which did not have access to internet in 2000, have advanced a lot.
+In the final Version, As per the year the color green keeps spreading in different parts of the world and as we see for 2015, Green is the major color. It is showing which countries have improved and which are still lagging behind(the white ones). The increasing growth of the Internet makes it appear that the developing world accepted the arrival of the new technology in just 15 years while the developed countries took around 50 years to invent the technology. Though some parts of the world still do not have access to internet or very little access, but on the whole, over the years this percentage has certainly increased. 
+There are more than five times as many Internet users now as there were in 2000. The internet has not just become larger, it has also become more spread out, more global and more Social!
 
-So, the government can learn about the current stats in their countries and know the reason why they are lagging behind and how can they educate their citizens about the advent of this technology. Internet providers can know in what countries should they introduce their services and can lower down the rates for poor countries.
+So, from this, government can learn about the current stats in their countries and know the reason why they are lagging behind and how can they educate their citizens about it. Also, Internet providers can know in what countries should they introduce their services and can lower down the rates for poor countries.
 
 ---
 ## RoadMap to future enhancements:
-1. Can explore data on the Effects of the Internet on Education and Healthcare, how these two services have been influenced by the internet.
+1. Can explore data on the effects of the Internet on Education and Healthcare, how these two services have been influenced by the internet.
 2. Can compare GDP reports of Developed and Undeveloped nations to see how is Internet's contribution related to GDP growth.
 3. Can know about the content people mostly access via internet and the source of accessing it, like via laptops, smartphones etc.
 4. Can explore data about how increase in mobile phone users is related to Internet usage.
 
-#### Also, there are some key findings for 2017 that I would like to share:
+#### Also, there are some key findings for 2017 about Internet that I would like to share:
 1. Internet penetration increased by 10% in the last 12 months to hit 3.773 billion, or 50% of the world’s population.
 
 2. Global social media use has increased by 21% in the last 12 months, reaching 2.8 billion users globally.

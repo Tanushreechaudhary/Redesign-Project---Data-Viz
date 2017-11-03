@@ -7,7 +7,7 @@ The Data source is Knoema World Data Atlas, the data gives us information about 
 
 Data source - https://knoema.com/ITUKGTI2015/international-telecommunication-union-key-global-telecom-indicators
 
-Following is the visualization that is to be redesigned.
+#### Visualization to be redesigned:
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage.png)
 
@@ -44,7 +44,7 @@ Here is the link to my Jupyter notebook:
 https://github.com/Tanushreechaudhary/Redesign-Project---Data-Viz/blob/master/Redesign_Project_JupyterNotebook.ipynb
 
 ### 3. Intermediate Visualization Prototypes:
-#### Intermediate 1:
+#### Prototype 1:
 In the first version, I tried to show the gap between the developed and developing nations, taking into view some major countries. The dawn of Internet has widen the gap between developed and developing nations. As we can see, United Kingdom has shown tremendous growth in a span of 15 years, from 26.82% to 92% and so does other developed countries. But this leaves out the details about the journey of undeveloped nations. So, In the next version, I am going to show the stats about Undeveloped countries.
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage4.png)
@@ -52,14 +52,14 @@ In the first version, I tried to show the gap between the developed and developi
 
 Disadvantages of Viz: I have used circles to display each country against Internet usage, but this doesnot give a clear idea as the sizes for the circles are almost same and have to put the percentage of users as the label.
 
-#### Intermediate 2:
+#### Prototype 2:
 In the second version, we look at the statistics for Internet Usage in Undeveloped nations like Iraq, Nigeria, Somalia and many more, they were almost at zero in 2000 and in 2015, they have shown a little bit of growth. Since, these nations don't have a strong economy and less access to technology, they are lacking behind. So, we can say that economic factors certainly influence the access and content divide in the field of technology.
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage3.png)
 
 Disadvantages of Viz: This version gives an understanding about the undeveloped countries but here we are analyzing data about how the internet usage has changed around the world. So, instead of bar graphs and circles, in the next iteration, I would make use of the latitudes and longitudes feature of tableau to show it on a map country-wise.
 
-#### Intermediate 3:
+#### Prototype 3:
 In this version, I have put the data in the form of latitudes and longitudes on a map. This visualization allows us to evaluate which countries have Highest number of Internet users and which have the lowest.
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage5.png)

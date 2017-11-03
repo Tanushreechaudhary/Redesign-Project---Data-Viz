@@ -7,7 +7,7 @@ The Data source is Knoema World Data Atlas, the data gives us information about 
 
 Data source - https://knoema.com/ITUKGTI2015/international-telecommunication-union-key-global-telecom-indicators
 
-#### Visualization to be redesigned:
+#### Original Visualization:
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Internet_Usage.png)
 
@@ -76,7 +76,7 @@ Disadvantages: It is not showing how Internet usage changed over the years, whic
 
 Link to Tableau Public: https://public.tableau.com/profile/tanushree3514#!/vizhome/WeareSocial_0/WeareSocial
 
-#### Comparison between the actual Viz and the Redesigned Viz.
+#### Comparison between the Original Viz and the Redesigned Viz.
 
 ![Alt text](https://github.com/Tanushreechaudhary/Data_Visualization/blob/master/screenshots/Comparison.png)
 
